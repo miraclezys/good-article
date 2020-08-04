@@ -9,6 +9,8 @@
 * [手把手教你打造属于自己团队的前端小报系统 2020-07-28](https://juejin.im/post/5f1d6a0d6fb9a07e8572b9eb)
 * [我是如何将业务代码写优雅的 2020-07-28](https://juejin.im/post/5cc7d540e51d456e537ef39e)
 * [毕业一年升P6的前端晋升总结 | 掘金征文 2020-07-28](https://juejin.im/post/5f1e3d966fb9a07e5e58eab3)
+* [「可视化搭建系统」——从设计到架构，探索前端领域技术和业务价值 2020-08-03](https://zhuanlan.zhihu.com/p/164558106)
+* [精读《函数缓存》2020-08-04](https://segmentfault.com/a/1190000023384154)
 
 ## 周刊
 
