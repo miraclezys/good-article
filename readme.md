@@ -11,6 +11,7 @@
 * [毕业一年升P6的前端晋升总结 | 掘金征文 2020-07-28](https://juejin.im/post/5f1e3d966fb9a07e5e58eab3)
 * [「可视化搭建系统」——从设计到架构，探索前端领域技术和业务价值 2020-08-03](https://zhuanlan.zhihu.com/p/164558106)
 * [精读《函数缓存》2020-08-04](https://segmentfault.com/a/1190000023384154)
+* [Managing Complex Waiting Experiences on Web UIs 2020-08-05](https://medium.com/@fkadev/managing-complex-waiting-experiences-on-web-uis-29534d2d92a8)
 
 ## 周刊
 
