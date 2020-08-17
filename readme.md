@@ -12,6 +12,7 @@
 * [「可视化搭建系统」——从设计到架构，探索前端领域技术和业务价值 2020-08-03](https://zhuanlan.zhihu.com/p/164558106)
 * [精读《函数缓存》2020-08-04](https://segmentfault.com/a/1190000023384154)
 * [Managing Complex Waiting Experiences on Web UIs 2020-08-05](https://medium.com/@fkadev/managing-complex-waiting-experiences-on-web-uis-29534d2d92a8)
+* [悟空活动中台 - 基于 WebP 的图片高性能加载方案 2020-08-17](https://mp.weixin.qq.com/s/rSpWorfNTajtqq_pd7H-nw)
 
 ## 周刊
 
