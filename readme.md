@@ -16,6 +16,7 @@
 * [「一劳永逸」一张脑图带你掌握Git命令 2020-09-15](https://juejin.im/post/6869519303864123399)
 * [浅谈 TypeScript 类型系统 2020-09-15](https://zhuanlan.zhihu.com/p/64446259)
 * [Ant Design 开源项目经验分享，你想知道的都在这儿了 2020-09-15](https://mp.weixin.qq.com/s?__biz=Mzg4MjE5OTI4Mw==&mid=2247484507&idx=1&sn=a6ce607ea739d20d09f02eb6fb36b0f0&chksm=cf5b1bc7f82c92d106f9d0ea4adeb14833456846d6e9aa28432f82af8936cdfa11e96745b299&mpshare=1&scene=1&srcid=&sharer_sharetime=1586429837077&sharer_shareid=8124a3e7d93f38d449ece64f388e83db&version=3.0.30.2300&platform=mac&rd2werd=1#wechat_redirect)
+* [TypeScript 高级用法 2021-02-23](https://juejin.cn/post/6926794697553739784)
 
 ## 周刊
 
